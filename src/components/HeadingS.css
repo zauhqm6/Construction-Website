@@ -1,0 +1,9 @@
+.page-header {
+    background: linear-gradient(to right, rgba(2, 36, 91, 1) 0%, rgba(2, 36, 91, 0) 100%), url(https://themewagon.github.io/Industrio/img/carousel-2.jpg) center center no-repeat;
+    background-size: cover;
+}
+.fade-eft {
+    visibility: visible;
+    animation-delay: 0.1s;
+    animation-name: fadeInDown;
+}
